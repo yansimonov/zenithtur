@@ -41,14 +41,8 @@ header {
     opacity: 70%;
    }
 
-   .header_logo
-   {
-     width: 120px;
-     height: 120px;
-   }
-
    .header_nav {
-    margin-left: 170px;
+    margin-left: 420px;
     justify-content: center;
     display: grid;
     grid-template-columns: 200px 200px 200px;
@@ -83,28 +77,6 @@ header {
     text-decoration: none;
    }
 
-   .info{
-    display:flex;
-    justify-content: space-around;
-    gap: 40px;
-    align-items: center;
-}
-.tel{
-    
-    font-size: 24px;
-}
-.gmail{
-    font-size: 18px;
-}
-.contacts{
-    display: grid;
-    color: #eee;
-    gap: 5px;
-}
-.buttons{
-background-color: transparent;
-border-radius: 5px;
-}
 .button{
     background-color:rgb(22, 123, 128);
     border-radius: 50%;
